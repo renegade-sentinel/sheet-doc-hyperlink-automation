@@ -27,6 +27,8 @@ To use Sheet to Doc Hyperlink Automation script, simply clone the repository and
 
 Here's an example of the Google sheet structure: https://docs.google.com/spreadsheets/d/1aCKO0tUYpOrtPdpwhDH8_pOD1b8wMOTqG9iL8LmPtvQ/edit?usp=sharing
 
+Replace variables in script.
+
 ## Contributions
 
 Contributions are welcome! If you'd like to contribute to Add-Doc-Internal-Links-From-Sheet, please open an issue or a pull request.
