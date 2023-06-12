@@ -23,7 +23,7 @@ By referencing a Google Sheet for preferred internal links, the script can quick
 
 ## Getting started
 
-To use Add-Doc-Internal-Links-From-Sheet, simply clone the repository and run the script. You will need to provide the necessary Google API credentials and authenticate the script to access your Google Drive.
+To use Sheet to Doc Hyperlink Automation script, simply clone the repository and run the script. You will need to provide the necessary Google API credentials and authenticate the script to access your Google Drive.
 
 Here's an example of the Google sheet structure: https://docs.google.com/spreadsheets/d/1aCKO0tUYpOrtPdpwhDH8_pOD1b8wMOTqG9iL8LmPtvQ/edit?usp=sharing
 
