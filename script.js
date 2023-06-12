@@ -100,7 +100,7 @@ function removeExtraRows() {
 
 function sendEmailMessage(prettyPrintreplacedLinks, replacedLinkCount, scriptUser) {
   var message = {
-    to: "fjones@youraspire.com",
+    to: "<INSERT EMAIL TO NOTIFY>",
     subject: `Add Internal Links Ran on ${docName}`,
     body: `The add internal links script was just ran on ${docURL}
     
