@@ -1,6 +1,6 @@
-# Add-Doc-Internal-Links-From-Sheet
+# Sheet to Doc Hyperlink Automation
 
-Add-Doc-Internal-Links-From-Sheet is a Google Apps Script that adds hyperlinks to a Google Doc based on a Google Sheet acting as a database for all preferred internal links in SEO content. 
+This is a Google Apps Script that adds hyperlinks to a Google Doc based on a Google Sheet acting as a database for all preferred internal links in SEO content. 
 
 The script scans the anchor text and hyperlink columns in the Google Sheet, and looks for the phrases in the anchor text column in the Google Doc text to add hyperlinks to. 
 
@@ -24,6 +24,8 @@ By referencing a Google Sheet for preferred internal links, the script can quick
 ## Getting started
 
 To use Add-Doc-Internal-Links-From-Sheet, simply clone the repository and run the script. You will need to provide the necessary Google API credentials and authenticate the script to access your Google Drive.
+
+Here's an example of the Google sheet structure: https://docs.google.com/spreadsheets/d/1aCKO0tUYpOrtPdpwhDH8_pOD1b8wMOTqG9iL8LmPtvQ/edit?usp=sharing
 
 ## Contributions
 
